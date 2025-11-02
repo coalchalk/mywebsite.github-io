@@ -1,0 +1,15 @@
+ body { 
+ background-image: url('https://media.istockphoto.com/photos/abstract-green-grass-on-clound-sky-picture-id481574428?k=6&m=481574428&s=612x612&w=0&h=hGdUSZIDibkFaCcbKoAyjLNRUaxlleTCkK7U8YlkBEc='); 
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ }
+
+    table {
+       border-collapse: collapse; 
+       width: 100%;
+   }
+   td {
+       border: 1px solid black; 
+       padding: 10px; 
+   }
